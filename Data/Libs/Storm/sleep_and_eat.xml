@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<!DOCTYPE storm SYSTEM "../storm.dtd">
+<storm>
+  <rules>
+    <rule name="player_henry_sleep_and_eat">
+      <selectors>
+        <hasName name="player_henry" />
+      </selectors>
+      <operations>
+        <addPerk name="sleep_and_eat" />
+      </operations>
+    </rule>
+  </rules>
+</storm>

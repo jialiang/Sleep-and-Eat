@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kcd_mod>
+  <info>
+    <name>Sleep and Eat</name>
+    <modid>sleep_and_eat</modid>
+    <description>Henry gets tired and hungry faster.</description>
+    <author>Author</author>
+    <version>1.0.0</version>
+    <created_on>05 Apr 2026</created_on>
+    <dependencies />
+  </info>
+  <supports>
+    <kcd_version>1.*</kcd_version>
+  </supports>
+</kcd_mod>

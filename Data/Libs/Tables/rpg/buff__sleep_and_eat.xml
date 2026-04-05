@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<database
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  name="barbora"
+  xsi:noNamespaceSchemaLocation="../database.xsd"
+>
+  <buffs version="1">
+    <buff
+      buff_id="9b5756f4-e159-4171-963f-3ab6db69b455"
+      buff_name="sleep_and_eat_buff"
+      buff_class_id="4"
+      buff_exclusivity_id="0"
+      buff_lifetime_id="1"
+      implementation="Cpp:Constant"
+      buff_params="exh%1.67,dig%1.67"
+      duration="-1"
+      is_persistent="true"
+      buff_ui_name="sleep_and_eat_name"
+      buff_desc="sleep_and_eat_desc"
+      buff_ui_type_id="4"
+      buff_ui_visibility_id="2"
+      icon_id="perk_balanced_diet"
+    />
+  </buffs>
+</database>

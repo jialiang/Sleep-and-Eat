@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii" ?>
+<database
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  name="barbora"
+  xsi:noNamespaceSchemaLocation="../database.xsd"
+>
+  <perks version="1">
+    <perk
+      perk_id="9ff4e2e2-3734-4862-9429-bb09886500e2"
+      perk_name="sleep_and_eat"
+      autolearnable="false"
+      visibility="1"
+      perk_ui_name="sleep_and_eat_name"
+      perk_ui_desc="sleep_and_eat_desc"
+      icon_id="perk_balanced_diet"
+    />
+  </perks>
+</database>

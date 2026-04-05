@@ -1,0 +1,10 @@
+<Table>
+  <Row>
+    <Cell>sleep_and_eat_name</Cell>
+    <Cell>Sleep and Eat</Cell>
+  </Row>
+  <Row>
+    <Cell>sleep_and_eat_desc</Cell>
+    <Cell>You get will now need to sleep and eat like a normal person.</Cell>
+  </Row>
+</Table>
