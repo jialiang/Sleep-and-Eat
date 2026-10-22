@@ -1,5 +1,7 @@
 # Sleep and Eat
 
+![Preview screenshot](https://github.com/jialiang/Sleep-and-Eat/blob/master/preview.png?raw=true)
+
 This is a mod for the game Kingdom Come: Deliverance 2 that increases Henry's exhaustion and digestion rates by 67%.
 
 Inspired by [Rebalanced Hunger (PTF)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/649) by bulhaneul.
